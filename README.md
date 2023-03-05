@@ -1,2 +1,2 @@
-# Python-Practices
-Python practices guide
+# python-school
+All Python learned at degree
